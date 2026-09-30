@@ -1,0 +1,36 @@
+# LangChain
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+
+# LLM APIs
+langchain-mistralai
+langchain-google-genai
+langchain-openai
+
+# Vector database / embeddings
+chromadb
+langchain-qdrant
+qdrant-client
+
+# Document loading
+pypdf
+pymupdf4llm
+
+# Environment variables
+python-dotenv
+
+# Hugging Face (if using Hugging Face embeddings/models)
+sentence-transformers
+
+# Numerical / data processing
+numpy
+pandas
+
+# Web/API app (if using FastAPI)
+fastapi
+uvicorn
+
+# UI (if using Streamlit)
+streamlit
